@@ -9,4 +9,8 @@ export default defineConfig({
       localsConvention:"camelCase",
     },
   },
+  base: '/Portfolio/', // Replace with your repository name
+  build: {
+    outDir: 'dist'
+  }
 });

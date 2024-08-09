@@ -11,7 +11,7 @@ export const Hero=() =>{
             <p className={styles.description}>Aspiring full-stack developer with a passion for real-time applications and machine learning.</p>
             <div className={styles.buttons}>
                 <a href="mailto:bhtheja2002@gmail.com" className={styles.contactBtn}>Contact Me</a>
-                <a href="https://thejabh.github.io/Portfolio/Resume/Theja_BH_Resume.pdf" download="Theja_B_H_Resume.pdf" className={styles.resumeBtn}>
+                <a href={getImageUrl("Resume/Theja_BH_Resume.pdf")} download="Theja_BH_Resume.pdf" className={styles.resumeBtn}>
                 Resume
                 <img
                     src={getImageUrl('hero/downloadIcon.png')}

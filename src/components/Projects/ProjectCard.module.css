@@ -7,7 +7,7 @@
     background: linear-gradient(180deg, #C77DFF 0%, #5A189A 100%);
     box-shadow: 0 16px 16px 0 #04152d;
     padding: 18px 24px;
-    max-width: 300px;
+    max-width: 345px;
 }
 
 .image{
@@ -62,4 +62,11 @@
     border-radius: 100px;
     background: var(--color-primary);
     padding: 1px 22px;
+}
+
+
+@media screen and (max-width:830px) {
+    .container{
+        max-width: 270px;
+    }
 }

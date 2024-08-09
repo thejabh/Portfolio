@@ -61,5 +61,12 @@
 
     .links{
         align-items: center;
+        gap: 10px;
+    }
+    .link{
+        gap:10px;
+    }
+    .link a{
+        font-size: 16px;
     }
 }

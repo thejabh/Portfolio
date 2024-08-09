@@ -1,0 +1,20 @@
+
+[
+    {
+        "title":"Real-Time Sign Language Recognition",
+        "imageSrc":"projects/project.png",
+        "description":"Indian Sign Language detection with a 90% accuracy rate",
+        "skills":["Python","Tensorflow","OpenCV","Tkinter"],
+        "demo":"",
+        "source":"https://www.github.com/thejabh/Real-Time-Indian-Sign-Language-Recognition-System"
+
+    },
+    {
+        "title":"Currency Management System",
+        "imageSrc":"projects/project.png",
+        "description":"A Crypto management system integrated with CoinCap API",
+        "skills":["Python","MySQL","Matplotlib","API"],
+        "demo":"",
+        "source":"https://github.com/AmanT0mar/Cryptocurrnecy-management"
+    }
+]

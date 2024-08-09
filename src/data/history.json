@@ -1,0 +1,19 @@
+
+[
+    {
+        "role":"Project Intern",
+        "organisation":"LRDE DRDO",
+        "startDate":"Feb, 2024",
+        "endDate":"Apr, 2024",
+        "experiences":["Worked on Radar Signal Simulation","Data Analysis and Machine Learning","Python, Sklearn, Matplotlib"],
+        "imageSrc":""
+    },
+    {
+        "role":"Software Developer Intern",
+        "organisation":"Siraom Pvt Ltd",
+        "startDate":"Aug, 2023",
+        "endDate":"Oct, 2023",
+        "experiences":["Worked on E-Commerce Website","UI/UX Redesign and Api Development","PHP Laravel and Database Development"],
+        "imageSrc":""
+    }
+]

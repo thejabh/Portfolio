@@ -1,0 +1,30 @@
+[
+    {
+        "title":"PYTHON",
+        "imageSrc":"skills/python.png"
+    },
+    {
+        "title":"MYSQL",
+        "imageSrc":"skills/mysql.png"
+    },
+    {
+        "title":"JAVA",
+        "imageSrc":"skills/java.png"
+    },
+    {
+        "title":"HTML",
+        "imageSrc":"skills/html.png"
+    },
+    {
+        "title":"CSS",
+        "imageSrc":"skills/css.png"
+    },
+    {
+        "title":"REACT",
+        "imageSrc":"skills/react.png"
+    },
+    {
+        "title":"MONGODB",
+        "imageSrc":"skills/mongodb.png"
+    }
+]
